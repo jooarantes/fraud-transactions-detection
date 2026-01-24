@@ -1,0 +1,47 @@
+# ========================
+# Ambientes virtuais
+# ========================
+venv/
+env/
+.conda/
+*.conda
+
+# ========================
+# Python
+# ========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ========================
+# Jupyter
+# ========================
+.ipynb_checkpoints
+
+# ========================
+# Dados (NÃO versionar)
+# ========================
+data/raw/
+data/external/
+data/interim/
+
+# Arquivos grandes comuns
+*.csv
+*.zip
+*.parquet
+*.feather
+*.h5
+
+# ========================
+# Modelos treinados
+# ========================
+models/
+*.pkl
+*.joblib
+
+# ========================
+# Arquivos do sistema
+# ========================
+.DS_Store
+Thumbs.db
