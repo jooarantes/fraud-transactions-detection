@@ -17,14 +17,13 @@ __pycache__/
 # ========================
 # Jupyter
 # ========================
-.ipynb_checkpoints
+.ipynb_checkpoints/
 
 # ========================
 # Dados (NÃO versionar)
 # ========================
-data/raw/
-data/external/
-data/interim/
+data/
+artifacts/
 
 # Arquivos grandes comuns
 *.csv
@@ -41,7 +40,20 @@ models/
 *.joblib
 
 # ========================
+# IDEs
+# ========================
+.vscode/
+.idea/
+
+# ========================
 # Arquivos do sistema
 # ========================
 .DS_Store
 Thumbs.db
+
+# ========================
+# Logs e temporários
+# ========================
+*.log
+*.tmp
+
