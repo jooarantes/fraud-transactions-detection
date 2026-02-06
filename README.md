@@ -144,7 +144,7 @@ A decisão final **não é baseada exclusivamente em métricas estatísticas.**
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-arantes-ds/)
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jooarantes.github.io/)
 ## 🔗 Conteúdos Relacionados
 
 - Artigo no Medium: ***[Além do AUC - Construindo um Sistema de Detecção de Fraudes Orientado ao Negócio](https://medium.com/@jooaarantes/al%C3%A9m-do-auc-construindo-um-sistema-de-detec%C3%A7%C3%A3o-de-fraudes-orientado-ao-neg%C3%B3cio-9ed99b06208b)***
